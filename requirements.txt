@@ -2,3 +2,4 @@ python-dotenv
 haystack-ai
 trafilatura
 colorama
+json-repair
